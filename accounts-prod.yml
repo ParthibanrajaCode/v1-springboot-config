@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Parthiban - Product Owner"
-    email: "productowner@partech.com"
+    email: "{cipher}8ff85c9e520bfaead9be7746e9bff62345cea1e41a9021f6aa36b4b8aff14b785d8b9f5b91595a5db7e81fd85163cfc3
+"
   onCallSupport:
     -(453)265-3765
     -(236)265-3766
