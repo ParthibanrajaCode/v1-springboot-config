@@ -2,7 +2,7 @@ build:
   versionn: "3.1"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs 3.1"
+  message: "Welcome to EazyBank accountss related prod APIs 3.1"
   contactDetails:
     name: "Parthiban - Product Owner"
     email: "{cipher}4ba51e752088f0eb9c6da2441ba3c04674ce60c68e9348a8c5187f46ca349c82a3805362c47d49c36374947d948d9fa6"
