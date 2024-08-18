@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related APIs"
+  contactDetails:
+    name: "Parthiban - Developer"
+    email: "developer@partech.com"
+  onCallSupport:
+    -(453)265-3765
+    -(236)265-3766

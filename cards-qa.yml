@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "Parthiban - QA Lead"
+    email: "qa@partech.com"
+  onCallSupport:
+    -(666)265-3765
+    -(666)265-3766

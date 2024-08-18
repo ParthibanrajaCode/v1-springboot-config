@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related APIs"
+  contactDetails:
+    name: "Parthiban - Developer"
+    email: "developer@partech.com"
+  onCallSupport:
+    -(453)265-3765
+    -(236)265-3766
+
+

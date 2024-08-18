@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related PROD APIs"
+  contactDetails:
+    name: "Parthiban - Product Owner"
+    email: "productowner@partech.com"
+  onCallSupport:
+    -(453)265-3765
+    -(236)265-3766
